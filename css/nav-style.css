@@ -1,0 +1,15 @@
+body{
+  background-color: #161b2f;}
+.container{
+  color: white;
+  }
+  nav{
+
+    background-color: #333853;
+  }
+
+  .navbar , .navbar-brand{padding:0;}
+
+.navbar-toggler{
+  margin-top: -40px
+}

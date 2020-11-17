@@ -1,0 +1,30 @@
+body{
+  background-color: #161b2f;}
+footer{
+  position: relative;
+  width: 100%;
+  background-color: #333853;
+}
+
+.subfooter{
+  background-color: #161b2f;
+}
+#FooterBrandName{
+  margin-left: 32%;
+}
+.navbarBrand{
+margin-left: 32.5%;
+}
+.navdiv{
+margin-left: 28%;
+text-align: left;
+}
+#FooterLinks{
+margin-right: 30%;
+}
+.socialicn:hover{
+color: grey;
+}
+.socialicn:active{
+color: #8b0000;
+}

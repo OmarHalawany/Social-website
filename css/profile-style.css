@@ -1,0 +1,51 @@
+body{
+  background-color: #161b2f;}
+
+.profileBody{background-color: #333853;
+             padding-top: 15px;
+             overflow-y: auto;
+             min-height: 800px;
+              margin-top: 10px;
+              border-radius: 4px;
+              margin-bottom: 10px;}
+
+#profilePic{width: 8%;
+            border-radius: 50%;}
+#username{font-family: "arial";
+          margin-top:3px;
+          color: #cccdd4;}
+#profileLink1,#profileLink2{color: #cccdd4;
+                            }
+
+#profileLink1:hover,#profileLink2:hover{color: grey;}
+
+#profileLink1,#profileLink2{float: left;
+                            display: block;
+                            }
+#profsplit{color: #161b2f;
+           width: 100%;}
+i{float: left;
+  padding-right: 5px;}
+
+#newpostarea{width:500px;}
+
+#newpostsubmit{border: none;
+                border-radius: 3px;
+                margin-top:3px;}
+#newpostsubmit:hover{background-color:grey;
+                      color: white;}
+.postarea{margin-top: -20px;
+          float: left;
+          margin-left: 10%;
+          margin-right: 5%;}
+.posts{padding: 10px;
+      border-radius:5px;
+      background-color: #161b2f;
+      margin-bottom: 20px;}
+.likepost:hover{background-color: grey;}
+.likepost{border: none;
+          border-radius: 3px;}
+
+.lik{float: left;
+     height: 8px;}
+hr{background-color: #333853;}
